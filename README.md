@@ -1,6 +1,6 @@
 # Keyboard_recorder_project
 
-This is tha lates project I've been working on, it is incomplete, barely working. If you want ot try it yourself you're welcome to.
+This is tha latest project I've been working on, it is incomplete, barely working. If you want ot try it yourself you're welcome to.
 
 Step 1: Downlaod the 5 files
 Step 2: put all in the same folder
